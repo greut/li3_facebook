@@ -5,7 +5,7 @@ use lithium\core\libraries;
 if (!defined('FACEBOOK_LIBRARY_PATH')) {
 	define(
 		'FACEBOOK_LIBRARY_PATH',
-		LITHIUM_LIBRARY_PATH . '/facebook'
+		LITHIUM_LIBRARY_PATH . '/facebook/src'
 	);
 }
 
